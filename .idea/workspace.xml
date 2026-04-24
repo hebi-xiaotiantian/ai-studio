@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/Users/hebi/Documents/Maven/apache-maven-current" />
+        <option name="userSettingsFile" value="/Users/hebi/Documents/Maven/settings.xml" />
+        <option name="localRepository" value="/Users/hebi/Documents/Maven/repository" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+</project>
